@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/liem18112000-axon/obsidian-vault.git
