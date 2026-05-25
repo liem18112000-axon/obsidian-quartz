@@ -16,9 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    // TODO: set this to "<your-github-username>.github.io/<repo-name>"
-    // or your custom domain. No protocol, no trailing slash.
-    baseUrl: "example.github.io/quartz",
+    baseUrl: "liem18112000-axon.github.io/obsidian-quartz",
     ignorePatterns: [
       "private",
       "templates",
